@@ -1,0 +1,1 @@
+This side project will produce an logbook application. Code sourced from Somenath Garai on youtube: URL: https://www.youtube.com/watch?v=Os8HE6kIqdI&ab_channel=SomenathGarai
